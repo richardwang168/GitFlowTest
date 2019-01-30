@@ -15,8 +15,8 @@
     </dependency>
   </dependencies>
   <scm>
-		<connection>scm:https://github.com/richardwang168/GitFlowTest.git</connection>
-		<developerConnection>scm:git:https://github.com/richardwang168/GitFlowTest.git</developerConnection>
+		<connection>scm:git://github.com/richardwang168/GitFlowTest.git</connection>
+		<developerConnection>scm:git:git://github.com/richardwang168/GitFlowTest.git</developerConnection>
 		<tag>HEAD</tag>
   </scm>
 	<build>
